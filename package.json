@@ -1,0 +1,35 @@
+{
+  "name": "ksl",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-picker/picker": "^2.2.1",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "expo": "~44.0.0",
+    "expo-location": "~14.0.1",
+    "expo-status-bar": "~1.2.0",
+    "firebase": "^9.6.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-dropdown-picker": "^5.2.3",
+    "react-native-maps": "^0.29.4",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "~3.10.1",
+    "react-native-vector-icons": "^9.0.0",
+    "react-native-web": "0.17.1",
+    "expo-image-picker": "~12.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
